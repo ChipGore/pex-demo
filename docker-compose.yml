@@ -12,7 +12,7 @@ services:
         IRIS_IMAGE: ${IRIS_IMAGE}
     restart: always
     ports:
-      - ${JAVA_GATEWAY}:55555
+      - ${JAVA_GATEWAY}:55558
       - 5005:5005
 
   netgw:

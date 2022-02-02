@@ -57,7 +57,7 @@ set sc = GW.%Disconnect()
 ## Other ports
 
 - SuperServer: `51773`
-- Java Gateway: `55555`
+- Java Gateway: `55558`
 - .Net gateway: `55556`
 - Python gateway: `55557`
 - Zookeeper: `2181`
